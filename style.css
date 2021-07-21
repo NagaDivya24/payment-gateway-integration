@@ -1,0 +1,100 @@
+body{
+ background-color:grey;
+ background:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.7)),url("https://i.pinimg.com/474x/fd/98/05/fd980582a0ebb7e551e8b0ff53a3ae61.jpg");
+}
+a{
+  text-decoration:none;
+  color:#40E0D0;
+  font-size:20px;
+  display:block;
+}
+nav{
+ list-style-type:none;
+ margin:0;
+ padding:0;
+ display:block;
+}
+.item {
+  float:right;
+  padding : 30px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.item1 {
+  float:left;
+  padding : 30px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.right {
+  font-size: 15px;
+  line-height: 1.5;
+  float:center;
+  display:inline;
+  color:white;
+}
+.left{
+ float:center;
+
+}
+
+.button {
+  align:center;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #008CBA;
+}
+#about {
+  padding: 2% 15%;
+  background-color:white;
+  z-index: 1;
+  position: relative;
+}
+#features {
+  padding: 2% 15%;
+  background-color: grey;
+  z-index: 1;
+  position: relative;
+}
+
+.feature-title{
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+#contact {
+  color:white;
+  padding: 2% 15%;
+  background:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.7)),url("https://soufianebouarfa.com/wp-content/uploads/2021/03/Contact-Us-26-Apr.jpg");
+}
+  z-index: 1;
+  position: relative;
+}
+.label{
+  background-color:  #999999;
+}
+#me {
+  padding: 2% 15%;
+  background-color: grey;
+  z-index: 1;
+  position: relative;
+}
+.h1{
+  color:#9FE2BF;
+  font-size:40px;
+}
+.icon{
+background-color: grey;
+}
+
+
+
+
